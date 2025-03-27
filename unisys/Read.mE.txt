@@ -1,0 +1,17 @@
+python version
+python-3.7
+
+
+tensorflow 
+
+pip install tensorflow==1.15
+pip install tensorflow-gpu==1.15
+
+
+
+steamlit version 
+pip install "streamlit<1.23"
+
+Additional instaletions 
+pip install "urllib3<2"
+pip install "requests<2.28"
